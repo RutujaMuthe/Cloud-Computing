@@ -1,0 +1,19 @@
+PRACTICAL NO.8:
+AIM: STUDY AND IMPLEMENTATION OF SINGLE-SIGN-ON.
+(https://youtu.be/XbeuDs5WmVM)
+
+STEPS:
+1) Go to the below given link,click on try Auth0 for
+   free .fill details.
+2)Select applications. Click on create application.
+3) Select single page web application. next.
+4) Download the sample file foe the application 
+   which we created.
+5)Copy the URL's.
+6)Paste it in the application.
+7)To check the login type the command.
+  ##npm install && npm start
+8)It will redirect you to your application you 
+  created using single sign on account.
+9)This is a sample application for single-sign-on 
+  using javascript.
